@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @xehkn
+- 👀 I’m interested in HTML / CSS / JS
+- 🌱 I’m currently learning JS / C
+- 📫 How to reach me https://twitter.com/benkolsuzum
